@@ -1,0 +1,15 @@
+name: incompy
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.6
+- matplotlib
+- seaborn
+- pandas
+- jupyter
+- jupyterlab
+- numpy
+- scipy
+- openpyxl
+- xlrd
